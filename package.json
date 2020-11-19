@@ -1,0 +1,15 @@
+{
+  "name": "apiconsumption",
+  "version": "1.0.0",
+  "description": "aprendizaje",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrea",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
