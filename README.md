@@ -5,5 +5,9 @@ With this  JavaScript assignments I combine three themes:
  API Consumption,
  Functional programming, Modules
  Package Managers 
- //
+ 
+ 
+ 
+ 
+ 
  Live Demo:http://meek-letter.surge.sh/
